@@ -1,0 +1,27 @@
+Primeira vez:
+
+	cd Desktop/Enviroments/ny2019
+
+	pip3 install virtualenv
+
+	virtualenv env
+
+	source env/bin/activate
+
+	pip3 install -r requirements.txt
+
+	pip3 install jupyterlab
+
+	pip3 install jupyter_http_over_ws
+
+	jupyter serverextension enable --py jupyter_http_over_ws
+
+Depois da primeira vez:
+
+	cd desktop/Enviroments/ny2019
+
+	source env/bin/activate
+
+	env/bin/jupyter-notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8889 --NotebookApp.port_retries=0
+
+	conferir se o notebook está rodando em GPU
