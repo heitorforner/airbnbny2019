@@ -34,7 +34,7 @@ We will use this dataset to awnser 3 questions:
 
 ### Results
 
-The main findings of the code can be found at the post available here
+The main findings of the code can be found at the post available [here](https://medium.com/@heitor.forner/know-where-to-stay-in-new-york-using-airbnb-and-paying-less-a22b53f559dc?source=friends_link&sk=5b160cfbed4f21ad81e5e1287f42ac53)
 
 ### Licensing, Authors, Acknowledgements
 
